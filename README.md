@@ -15,6 +15,7 @@
 - 2001:678:f68:0700::/56 - US, US-CA, Los Angeles, 90017  
 - 2001:678:f68:0800::/56 - CA, CA-ON, Toronto, M5A 2Y5
 - 2001:678:f68:0900::/56 - DE, DE-HE, Frankfurt, 60314
+- 2001:678:f68:1000::/56 - US, US-NY, New York, 10013
 
 - 2a0f:9400:6120:0100::/56 - US, US-KA, Kansas City,
 - 2a0f:9400:6120:0200::/56 - US, US-IL, Chicago,
