@@ -1,8 +1,7 @@
 # CaramelFox Networks Public GeoIP Feed  
 ## Prefix Covered  
 -- 2001:678:f68::/48   
--- 2a0f:9400:6120::/48   
--- 2a0f:9400:6121::/48   
+
 ## Announced Locations (14 Sites)  
 ##### Prefix - Country, Region, City, Zip Code  
 - 2001:678:f68:0000::/56 - CA, CA-QC, Beauharnois, J6N 0C2  
@@ -16,12 +15,6 @@
 - 2001:678:f68:0800::/56 - CA, CA-ON, Toronto, M5A 2Y5
 - 2001:678:f68:0900::/56 - DE, DE-HE, Frankfurt, 60314
 - 2001:678:f68:1000::/56 - US, US-NY, New York, 10013
-
-- 2a0f:9400:6120:0100::/56 - US, US-KA, Kansas City,
-- 2a0f:9400:6120:0200::/56 - US, US-IL, Chicago,
-- 2a0f:9400:6120:0300::/56 - US, US-CA, Los Angeles, 90017
-
-- 2a0f:9400:6121::/48 - US, US-LA, Los Angeles, 90017
 
 ## Notice  
 #### Prefixes that do not appear in this list can be safely ignored/removed
