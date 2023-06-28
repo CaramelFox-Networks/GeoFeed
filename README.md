@@ -15,7 +15,7 @@
 - 2001:678:f68:0800::/56 - CA, CA-ON, Toronto, M5A 2Y5
 - 2001:678:f68:0900::/56 - DE, DE-HE, Frankfurt, 60314
 - 2001:678:f68:1000::/56 - US, US-NY, New York, 10013
-- 2001:678:f68:2048::/56 - US, US-MO, Kansas City, 64116
+- 2001:678:f68:2000::/56 - US, US-MO, Kansas City, 64116
 
 ## Notice  
 #### Prefixes that do not appear in this list can be safely ignored/removed
